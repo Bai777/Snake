@@ -1,0 +1,15 @@
+D:\AndroidProjects\SnakeOOP\Snake\Snake\bin\Debug\net6.0\Snake.exe
+D:\AndroidProjects\SnakeOOP\Snake\Snake\bin\Debug\net6.0\Snake.deps.json
+D:\AndroidProjects\SnakeOOP\Snake\Snake\bin\Debug\net6.0\Snake.runtimeconfig.json
+D:\AndroidProjects\SnakeOOP\Snake\Snake\bin\Debug\net6.0\Snake.dll
+D:\AndroidProjects\SnakeOOP\Snake\Snake\bin\Debug\net6.0\Snake.pdb
+D:\AndroidProjects\SnakeOOP\Snake\Snake\obj\Debug\net6.0\Snake.csproj.AssemblyReference.cache
+D:\AndroidProjects\SnakeOOP\Snake\Snake\obj\Debug\net6.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\AndroidProjects\SnakeOOP\Snake\Snake\obj\Debug\net6.0\Snake.AssemblyInfoInputs.cache
+D:\AndroidProjects\SnakeOOP\Snake\Snake\obj\Debug\net6.0\Snake.AssemblyInfo.cs
+D:\AndroidProjects\SnakeOOP\Snake\Snake\obj\Debug\net6.0\Snake.csproj.CoreCompileInputs.cache
+D:\AndroidProjects\SnakeOOP\Snake\Snake\obj\Debug\net6.0\Snake.dll
+D:\AndroidProjects\SnakeOOP\Snake\Snake\obj\Debug\net6.0\refint\Snake.dll
+D:\AndroidProjects\SnakeOOP\Snake\Snake\obj\Debug\net6.0\Snake.pdb
+D:\AndroidProjects\SnakeOOP\Snake\Snake\obj\Debug\net6.0\Snake.genruntimeconfig.cache
+D:\AndroidProjects\SnakeOOP\Snake\Snake\obj\Debug\net6.0\ref\Snake.dll
